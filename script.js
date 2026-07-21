@@ -185,7 +185,7 @@ var HERO_SLIDESHOW_IMAGES = [
   'hero-background-3.jpg',
   'hero-background-4.jpg',
   'hero-background-5.jpg',
-  'hero-background-6.jpg'
+  'hero-background-6.jpg',
   'hero-background-7.jpg'
 ];
 
